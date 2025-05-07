@@ -118,7 +118,7 @@ Information on how to connect through various channels (Discord, Telegram, etc.)
 #### Programs Overview
 Description of the educational approach and philosophy
 
-#### Crypto Activos Program
+#### Crypto Activos Podcast
 - Program details
 - Curriculum outline
 - Registration information
